@@ -6,7 +6,7 @@ export default async function Home() {
 
   return (
     <main style={{ padding: '50px', textAlign: 'center', fontFamily: 'sans-serif' }}>
-      <h1>Awasame Travel Portal</h1>
+      <h1>Awesame Travel Portal</h1>
       {user ? (
         <div>
           <p>Willkommen zurück, {user.name}!</p>
